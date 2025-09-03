@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
-<h1 align="center">Hi 👋, I'm MhrSifat!</h1>
+<h1 align="center">Hi 👋, I'm Arifur Rahman!</h1>
 
 <img align="right" alt="Coding" width="380" 
      src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
@@ -15,7 +15,7 @@
 </p>
 
 - 🌱 I’m currently learning **Laravel**  
-- 📫 How to reach me: **mhrsifat@gmail.com**  
+- 📫 How to reach me: **arifur12877@gmail.com**  
 
 <p align="center"> 
   <span style="color:#06b6d4;">━━━━━━━━━━━━━━━━━━━━</span>
@@ -23,19 +23,19 @@
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mhrsifatdev" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/arifur198" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=" alt="LinkedIn" height="28" style="border-radius:6px; margin-right:6px;">
   </a>
-  <a href="https://wa.me/8801773448153" target="_blank" rel="noopener noreferrer">
+  <a href="https://wa.me/880140488121" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&label=" alt="WhatsApp" height="28" style="border-radius:6px; margin-right:6px;">
   </a>
-  <a href="https://discord.com/users/mhrsifat13" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.com/users/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&label=" alt="Discord" height="28" style="border-radius:6px; margin-right:6px;">
   </a>
-  <a href="https://mhrsifat.xyz" target="_blank" rel="noopener noreferrer">
+  <a href="https://arifur.xerror.xyz" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-111?style=flat-square&logo=google-chrome&logoColor=white&label=" alt="Website" height="28" style="border-radius:6px; margin-right:6px;">
   </a>
-  <a href="mailto:mhrsifat@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:arifur12877@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&label=" alt="Email" height="28" style="border-radius:6px;">
   </a>
 </p>
@@ -52,7 +52,7 @@
 - 🔭 I’m currently working on **a cool web app using React and Laravel**  
 - 👯 I’m looking to collaborate on **open-source projects and innovative web apps**  
 - 💬 Ask me about **Web Development, JavaScript, or UI/UX Design**  
-- 📫 How to reach me: **mhrsifat@gmail.com**
+- 📫 How to reach me: **arifur12877@gmail.com**
 
 <p align="center"> 
   <span style="color:#facc15;">━━━━━━━━━━━━━━━━━━━━</span>
@@ -105,14 +105,14 @@
 
 ### 🌐 Live Projects
 
-| Project         | Description                     | URL                                       |
-|-----------------|---------------------------------|------------------------------------------|
-| 🚚 LogiTrack     | Logistics tracking system       | [logitrack.mhrsifat.xyz](https://logitrack.mhrsifat.xyz) |
-| 🛒 Halum Shop    | Ecommerce system                | [halum.mhrsifat.xyz](https://halum.mhrsifat.xyz) |
-| 🌟 Portfolio    | Personal portfolio website      | [mhrsifat.xyz](https://mhrsifat.xyz)     |
-| 🌦️ Weather App  | Real-time weather application  | [weather.mhrsifat.xyz](https://weather.mhrsifat.xyz) |
-| 📚 Sanda        | Chatting app (PHP, JS, jQuery) | [sanda.mhrsifat.xyz](https://sanda.mhrsifat.xyz) |
-| 📁 File Manager | Online file manager             | [cdn.mhrsifat.xyz](https://cdn.mhrsifat.xyz) |
+| Project          | Description                     | URL                                           |
+|------------------|---------------------------------|-----------------------------------------------|
+|🌟  Portfolio     | Personal portfolio website      | [mhrsifat.xyz](https://arifur.xerror.xyz)     |
+|🎬 Movie Hall     | Movie hall booking system (PHP) | [movies.xerror.xyz](https://movies.xerror.xyz)|
+|🚗  Auto Service  | Car repair & service system     | [cars.xerror.xyz](https://cars.xerror.xyz)    |
+
+
+
 
 <p align="center"> 
   <span style="color:#facc15;">━━━━━━━━━━━━━━━━━━━━</span>
@@ -121,7 +121,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/mhrsifat">
+  <a href="https://github.com/arifur128">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhrsifat&show_icons=true&theme=radical&hide_border=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrsifat&layout=compact&theme=radical&hide_border=true" />
   </a>
@@ -145,8 +145,8 @@ I’m always open to collaborating on new projects, discussing innovative ideas,
 
 💡 Feel free to **clone/fork** my projects, raise **issues**, or submit **PRs** if you think something can be improved.  
 
-📩 Ask me anything [**here**](https://github.com/mhrsifat/mhrsifat/issues/new)  
-📧 Or drop me an [**email**](mailto:mhrsifat@gmail.com)
+📩 Ask me anything [**here**](https://github.com/atifur128/)  
+📧 Or drop me an [**email**](mailto:arifur12877@gmail.com)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mhrsifat&label=Profile%20Views&color=0e75b6&style=flat" alt="mhrsifat" />
