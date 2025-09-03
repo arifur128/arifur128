@@ -122,8 +122,8 @@
 
 <p align="center">
   <a href="https://github.com/arifur128">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhrsifat&show_icons=true&theme=radical&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrsifat&layout=compact&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arifur12877&show_icons=true&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifur12877&layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
 
@@ -149,5 +149,5 @@ I’m always open to collaborating on new projects, discussing innovative ideas,
 📧 Or drop me an [**email**](mailto:arifur12877@gmail.com)
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mhrsifat&label=Profile%20Views&color=0e75b6&style=flat" alt="mhrsifat" />
+  <img src="https://komarev.com/ghpvc/?username=arifur12877&label=Profile%20Views&color=0e75b6&style=flat" alt="arifur" />
 </p>
