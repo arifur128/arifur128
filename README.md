@@ -107,9 +107,9 @@
 
 | Project          | Description                     | URL                                           |
 |------------------|---------------------------------|-----------------------------------------------|
-|🌟  Portfolio     | Personal portfolio website      | [arifur.xerror.xyz](https://arifur.xerror.xyz)     |
-|🎬 Movie Hall     | Movie hall booking system (PHP) | [movies.xerror.xyz](https://movies.xerror.xyz)|
-|🚗  Auto Service  | Car repair & service system     | [cars.xerror.xyz](https://cars.xerror.xyz)    |
+|🌟  Portfolio     | Personal portfolio website      | [arifur.xerror.xyz](https://arifur.xerror.online)     |
+|🎬 Movie Hall     | Movie hall booking system (PHP) | [movies.xerror.xyz](https://movies.xerror.online)|
+|🚗  Auto Service  | Car repair & service system     | [cars.xerror.xyz](https://cars.xerror.online)    |
 
 
 
